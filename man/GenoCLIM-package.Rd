@@ -4,12 +4,12 @@
 \name{GenoCLIM-package}
 \alias{GenoCLIM}
 \alias{GenoCLIM-package}
-\title{GenoCLIM: A package to assist in genetic/genomic information (varaints), population structure, popgen, climate data processing, raster layer modifications, raster data extraction, and other helpful data slicing functions}
+\title{GenoCLIM: What the Package Does (One Line, Title Case)}
 \description{
-I built this package from scripts used in my PhD. Many functions associated with popgen could be further streamlined for simplicity. Functions that could even be simple one-liners are further simplified as functions
+What the package does (one paragraph).
 }
 \author{
-\strong{Maintainer}: Jared Streich \email{streich.jared@gmail.com} (\href{https://orcid.org/0000-0003-4861-1188}{ORCID})
+\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
 }
 \keyword{internal}
